@@ -1,16 +1,18 @@
 # rick_and_morty
 
-A new Flutter project.
+Desarrolo de un app consumiendo el api de rick and morty, en la cual tenemos un scroll infinito con los personaje y algunos de sus datos.
+tambien tenemos un detalle de cada personaje, dando clic en el boton de detalle en cada tarjeta.
+Flutter version : 3.3.3
 
-## Getting Started
+# Librerias usadas: 
+# peticiones: Dio
+# Gestor de estados: Bloc
+# inyector de dependencias: Injector
 
-This project is a starting point for a Flutter application.
+Modo de instalacion:
+# Descargar el proyecto en local
+# Correr Flutter pub get para descargar las dependencias
+# correr el proyecto
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
